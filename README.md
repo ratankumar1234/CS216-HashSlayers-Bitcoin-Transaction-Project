@@ -167,6 +167,14 @@ Load  Wallet
 ```bash
 \bitcoin-cli -regtest loadwallet "testwallet"
 ```
+ Then go to VS Code, run those two .py files stored at 
+ ```bash
+C:\Program Files\Bitcoin\daemon
+```
+Make sure .conf is stored at correct place
+ ```bash
+prees win+R, type '%APPDATA%\Bitcoin' and save that .conf file here
+```
 
 ---
 
