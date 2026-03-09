@@ -1,1 +1,29 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
 
+# --- Bitcoin Node Data (Crucial) ---
+# Do NOT upload the entire regtest folder or blockchain data
+*.dat
+*.log
+*.lock
+.cookie
+regtest/
+wallets/
+
+# --- Sensitive Information ---
+# While required for the lab, standard practice is to ignore local configs
+# if they contain unique passwords.
+# bitcoin.conf 
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- IDEs ---
+.vscode/
+.idea/
