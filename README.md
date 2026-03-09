@@ -199,7 +199,7 @@ CS216-HashSlayers-Bitcoin-Transaction-Project
 │   └── bitcoin.conf
 │
 ├── report/
-│   └── Lab_Assignment_Report.pdf
+│   └── Assignment_Report.pdf
 │
 ├── .gitignore
 └── README.md
