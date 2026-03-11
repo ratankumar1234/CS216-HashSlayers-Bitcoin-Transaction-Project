@@ -74,7 +74,7 @@ Before running the scripts ensure the following software is installed.
 
 Download Bitcoin Core:
 
-https://bitcoincore.org/en/download/
+https://bitcoincore.org/en/download
 
 Required executables:
 
